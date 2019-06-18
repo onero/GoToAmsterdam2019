@@ -1,0 +1,4 @@
+
+module firstmodule {
+    requires secondmodule;
+}
